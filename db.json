@@ -1,7 +1,7 @@
 {
   "dataLHS": [
     {
-      "account_id": 0,
+      "id": 0,
       "trueauthor_name": "Kunal  D",
       "author_photo": "dev_pp15917170429310.png",
       "author_user_id": 154,
@@ -16,7 +16,7 @@
       "updated_by": 154
     },
     {
-      "account_id": 1,
+      "id": 1,
       "trueauthor_name": "Kunal  D",
       "author_photo": "dev_pp15917170429310.png",
       "author_user_id": 155,
@@ -31,7 +31,7 @@
       "updated_by": 155
     },
     {
-      "account_id": 2,
+      "id": 2,
       "trueauthor_name": "Kunal  D",
       "author_photo": "dev_pp15917170429310.png",
       "author_user_id": 156,
@@ -46,7 +46,7 @@
       "updated_by": 156
     },
     {
-      "account_id": 3,
+      "id": 3,
       "trueauthor_name": "Kunal  D",
       "author_photo": "dev_pp15917170429310.png",
       "author_user_id": 157,
@@ -61,7 +61,7 @@
       "updated_by": 157
     },
     {
-      "account_id": 4,
+      "id": 4,
       "trueauthor_name": "Kunal  D",
       "author_photo": "dev_pp15917170429310.png",
       "author_user_id": 158,
@@ -76,7 +76,7 @@
       "updated_by": 158
     },
     {
-      "account_id": 5,
+      "id": 5,
       "trueauthor_name": "Kunal  D",
       "author_photo": "dev_pp15917170429310.png",
       "author_user_id": 159,
@@ -93,7 +93,7 @@
   ],
   "dataRHS": [
     {
-      "account_id": 0,
+      "id": 0,
       "auther_name": "Kunal  D",
       "auther_photo": "dev_pp15917170429310.png",
       "branches": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "account_id": 1,
+      "id": 1,
       "auther_name": "Kunal  D",
       "auther_photo": "dev_pp15917170429310.png",
       "branches": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "account_id": 2,
+      "id": 2,
       "auther_name": "Kunal  D",
       "auther_photo": "dev_pp15917170429310.png",
       "branches": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "account_id": 3,
+      "id": 3,
       "auther_name": "Kunal  D",
       "auther_photo": "dev_pp15917170429310.png",
       "branches": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "account_id": 4,
+      "id": 4,
       "auther_name": "Kunal  D",
       "auther_photo": "dev_pp15917170429310.png",
       "branches": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "account_id": 5,
+      "id": 5,
       "auther_name": "Kunal  D",
       "auther_photo": "dev_pp15917170429310.png",
       "branches": [
@@ -220,4 +220,3 @@
     }
   ]
 }
-
