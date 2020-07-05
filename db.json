@@ -1,11 +1,223 @@
 {
-  "posts": [
+  "dataLHS": [
     {
-      "id": 1,
-      "title": "hello"
+      "account_id": 0,
+      "trueauthor_name": "Kunal  D",
+      "author_photo": "dev_pp15917170429310.png",
+      "author_user_id": 154,
+      "date_created": "2020-06-23 10:41:01",
+      "date_updated": "2020-07-05 09:10:44",
+      "greeting": "active",
+      "icon": "icon",
+      "nullid": 78,
+      "name": "Virtual Assistant",
+      "status": "Draft",
+      "title": "Zains Lead",
+      "updated_by": 154
+    },
+    {
+      "account_id": 1,
+      "trueauthor_name": "Kunal  D",
+      "author_photo": "dev_pp15917170429310.png",
+      "author_user_id": 155,
+      "date_created": "2020-06-23 10:41:01",
+      "date_updated": "2020-07-05 09:10:44",
+      "greeting": "active",
+      "icon": "icon",
+      "nullid": 79,
+      "name": "Virtual Assistant",
+      "status": "Publish",
+      "title": "Lead 55",
+      "updated_by": 155
+    },
+    {
+      "account_id": 2,
+      "trueauthor_name": "Kunal  D",
+      "author_photo": "dev_pp15917170429310.png",
+      "author_user_id": 156,
+      "date_created": "2020-06-23 10:41:01",
+      "date_updated": "2020-07-05 09:10:44",
+      "greeting": "active",
+      "icon": "icon",
+      "nullid": 80,
+      "name": "Virtual Assistant",
+      "status": "Publish",
+      "title": "IBZPI",
+      "updated_by": 156
+    },
+    {
+      "account_id": 3,
+      "trueauthor_name": "Kunal  D",
+      "author_photo": "dev_pp15917170429310.png",
+      "author_user_id": 157,
+      "date_created": "2020-06-23 10:41:01",
+      "date_updated": "2020-07-05 09:10:44",
+      "greeting": "active",
+      "icon": "icon",
+      "nullid": 81,
+      "name": "Virtual Assistant",
+      "status": "Draft",
+      "title": "Blank Lead",
+      "updated_by": 157
+    },
+    {
+      "account_id": 4,
+      "trueauthor_name": "Kunal  D",
+      "author_photo": "dev_pp15917170429310.png",
+      "author_user_id": 158,
+      "date_created": "2020-06-23 10:41:01",
+      "date_updated": "2020-07-05 09:10:44",
+      "greeting": "active",
+      "icon": "icon",
+      "nullid": 82,
+      "name": "Virtual Assistant",
+      "status": "Draft",
+      "title": "Sales Qualify Lead",
+      "updated_by": 158
+    },
+    {
+      "account_id": 5,
+      "trueauthor_name": "Kunal  D",
+      "author_photo": "dev_pp15917170429310.png",
+      "author_user_id": 159,
+      "date_created": "2020-06-23 10:41:01",
+      "date_updated": "2020-07-05 09:10:44",
+      "greeting": "active",
+      "icon": "icon",
+      "nullid": 83,
+      "name": "Virtual Assistant",
+      "status": "Publish",
+      "title": "Out-of-Office Lead",
+      "updated_by": 159
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "dataRHS": [
+    {
+      "account_id": 0,
+      "auther_name": "Kunal  D",
+      "auther_photo": "dev_pp15917170429310.png",
+      "branches": [
+        {
+          "id": 6664,
+          "leadbot_id": 78,
+          "account_id": 90,
+          "title": "New Branch",
+          "visible_order": 1
+        },
+        {
+          "id": 6664,
+          "leadbot_id": 78,
+          "account_id": 90,
+          "title": "New Branch",
+          "visible_order": 1
+        }
+      ]
+    },
+    {
+      "account_id": 1,
+      "auther_name": "Kunal  D",
+      "auther_photo": "dev_pp15917170429310.png",
+      "branches": [
+        {
+          "id": 6664,
+          "leadbot_id": 78,
+          "account_id": 90,
+          "title": "New Branch",
+          "visible_order": 1
+        },
+        {
+          "id": 6664,
+          "leadbot_id": 78,
+          "account_id": 90,
+          "title": "New Branch",
+          "visible_order": 1
+        }
+      ]
+    },
+    {
+      "account_id": 2,
+      "auther_name": "Kunal  D",
+      "auther_photo": "dev_pp15917170429310.png",
+      "branches": [
+        {
+          "id": 6664,
+          "leadbot_id": 78,
+          "account_id": 90,
+          "title": "New Branch",
+          "visible_order": 1
+        },
+        {
+          "id": 6664,
+          "leadbot_id": 78,
+          "account_id": 90,
+          "title": "New Branch",
+          "visible_order": 1
+        }
+      ]
+    },
+    {
+      "account_id": 3,
+      "auther_name": "Kunal  D",
+      "auther_photo": "dev_pp15917170429310.png",
+      "branches": [
+        {
+          "id": 6664,
+          "leadbot_id": 78,
+          "account_id": 90,
+          "title": "New Branch",
+          "visible_order": 1
+        },
+        {
+          "id": 6664,
+          "leadbot_id": 78,
+          "account_id": 90,
+          "title": "New Branch",
+          "visible_order": 1
+        }
+      ]
+    },
+    {
+      "account_id": 4,
+      "auther_name": "Kunal  D",
+      "auther_photo": "dev_pp15917170429310.png",
+      "branches": [
+        {
+          "id": 6664,
+          "leadbot_id": 78,
+          "account_id": 90,
+          "title": "New Branch",
+          "visible_order": 1
+        },
+        {
+          "id": 6664,
+          "leadbot_id": 78,
+          "account_id": 90,
+          "title": "New Branch",
+          "visible_order": 1
+        }
+      ]
+    },
+    {
+      "account_id": 5,
+      "auther_name": "Kunal  D",
+      "auther_photo": "dev_pp15917170429310.png",
+      "branches": [
+        {
+          "id": 6664,
+          "leadbot_id": 78,
+          "account_id": 90,
+          "title": "New Branch",
+          "visible_order": 1
+        },
+        {
+          "id": 6664,
+          "leadbot_id": 78,
+          "account_id": 90,
+          "title": "New Branch",
+          "visible_order": 1
+        }
+      ]
+    }
+  ]
 }
+
