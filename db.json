@@ -66,6 +66,8 @@
       "id": "3sWX9eJmef",
       "auther_name": "Kunal  D",
       "auther_photo": "dev_pp15917170429310.png",
+      "status": "Draft",
+      "title": "Zains Lead",
       "branches": [
         {
           "id": 6664,
@@ -97,6 +99,8 @@
       "id": "uGq8CzuluZ",
       "auther_name": "Kunal  D",
       "auther_photo": "dev_pp15917170429310.png",
+      "status": "Publish",
+      "title": "Lead 55",
       "branches": [
         {
           "id": 6664,
@@ -128,6 +132,8 @@
       "id": "gQMlfyeCL4",
       "auther_name": "Kunal  D",
       "auther_photo": "dev_pp15917170429310.png",
+      "status": "Publish",
+      "title": "IBZPI",
       "branches": [
         {
           "id": 6664,
@@ -159,6 +165,8 @@
       "id": "wPGoJMA4b3",
       "auther_name": "Kunal  D",
       "auther_photo": "dev_pp15917170429310.png",
+      "status": "Draft",
+      "title": "Blank Lead",
       "branches": [
         {
           "id": 6664,
